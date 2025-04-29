@@ -1,5 +1,11 @@
 # wandboard-imx6-yocto-zeus_5.4
 
+https://www.technexion.com/products/system-on-modules/evk/wandboard-imx6/
+
+<img title="a title" alt="Alt text" src="/img/imx6-yocto-zeus-5.png">
+
+<img title="a title" alt="Alt text" src="/img/imx6-yocto-zeus-4.png">
+
 following TechNexion Yocto 3.0 Zeus 5.4.y GA BSP 
 
 https://github.com/TechNexion/tn-imx-yocto-manifest/tree/zeus_5.4.y-next
@@ -161,4 +167,14 @@ SRCREV = "703bd9caab50b139428cea1aaff9974ebee5742e"
 https://patchwork.yoctoproject.org/project/oe/patch/9B6z.1699621499757734697.wXhd@lists.openembedded.org/#14837
 
 ------------------------------
+
+## Insert SD-Card 
+
+<img title="a title" alt="Alt text" src="/img/imx6-yocto-zeus-3.png">
+
+## Try Booting
+
+<img title="a title" alt="Alt text" src="/img/imx6-yocto-zeus-2.png">
+
+<img title="a title" alt="Alt text" src="/img/imx6-yocto-zeus-1.png">
 
